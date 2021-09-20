@@ -1,0 +1,43 @@
+h2 {
+  color: blue;
+}
+.text {
+  color: red;
+}
+# menu {
+  color: blue;
+}
+.main + h5 {
+  color: teal;
+}
+.main + * {
+  color: darkolivegreen;
+}
+.any {
+  color: dodgerblue;
+}
+.ready.item_ready {
+  color: brown;
+}
+* {
+  color: blueviolet;
+}
+.uni.clothe,
+.uni.wear {
+  color: chocolate;
+}
+.content_text {
+  color: hotpink;
+}
+
+div.content {
+  color: limegreen;
+}
+
+.content .content_item {
+  color: green;
+}
+.content p,
+.content span {
+  color: darkorange;
+}
